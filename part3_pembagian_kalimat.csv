@@ -1,0 +1,109 @@
+Ambil 3 kalimat sesuai dengan nomor kelompok yang anda umumkan di scele (nomor kelompok tidak boleh yang telah dipilih sebelumnya).  idn_treebank_modified.txt,,,,
+Kolom id adalah nomor baris kalimat pada korpus idn_treebank_modified.bracket. Sertakan id ini pada hasil dependency parsing ,,,,
+,,,,
+Kelompok,id,result,,
+1,128,Pencarian casting untuk The Hobbit dijadwalkan berlangsung hari Minggu di National Dance and Drama Centre di Wellington .,,
+1,3,Beberapa laporan menyebutkan setidaknya 10 monyet ditempatkan di luar arena lomba dan pertandingan di ibukota India.,,
+1,4,Pemkot Delhi memiliki 28 monyet dan berencana mendatangkan 10 monyet sejenis dari Rajasthan.,,
+2,491,Saya akan bekerja di pemerintah Inggris .,,
+2,8,AFP melaporkan stadion tinju dan hockey mendapatkan perhatian khusus karena sering diserbu monyet.,,
+2,9,Monyet besar akan dikerahkan di dua stadion untuk mengusir serbuan monyet kecil,,
+3,11,Selama bertahun-tahun monyet mengganggu warga Delhi.,,
+3,12,Binatang ini menaiki kereta metro dan bahkan berkeliaran di kompleks gedung parlemen.,,
+3,13,Belum lama ini kawanan monyet menyerbu kantor dan departemen pertahanan.,,
+4,19,Dua miliarder Amerika Bill Gates dan Warren Buffett akan mengadakan jamuan di Beijing bagi sejumlah orang terkaya di Cina.,,
+4,20,Gates dan Buffett mengatakan mereka berada di Cina untuk mempelajari kegiatan amal di negara itu.,,
+4,21,Banyak orang menduga mereka ingin membujuk para tamu agar lebih banyak menyumbang untuk amal.,,
+5,46,Jamrud Bahia dinamakan sesuai lokasi penemuannya di daerah di Brasil memiliki berat 380 kg.,,
+5,51,Dia percaya batu itu telah dicuri untuk dijual kembali dengan harga yang lebih mahal.,,
+5,56,Jamrud Bahia kemudian dibawa ke Las Vegas untuk dilihat oleh calon pembeli namun disita oleh polisi Los Angeles.,,
+6,75,Seorang anggota Parlemen Eropa asal Italia menghadiri sidang parlemen di Strasbourg dengan menggendong anak bayinya.,,
+6,76,Licia Ronzulli mengatakan ia ingin menunjukkan beratnya beban yang ditanggung kaum perempuan untuk menjalani karir sekaligus mengasuh anak.,,
+6,77,Para anggota parlemen sedang membahas usul untuk memperbaiki hak maupun kesempatan bagi perempuan untuk bekerja.,,
+7,104,Akademi Kerajaan Spanyol mengundang orang di seluruh dunia untuk merekam segmen dari novel klasik Don Quixote dan mengunggahnya ke YouTube.,,
+7,105,Karya Miguel de Cervantes ini sering disebut sebagai novel Spanyol yang paling populer walau tak banyak yang pernah membacanya.,,
+7,107,Segmen-segmen itu akan dibaca dan kemudian direkam hanya dalam bahasa Spanyol oleh sukarelawan dan diunggah di halaman khusus YouTube.,,
+8,139,Cavaille menambahkan bahwa kawanan pencuri jelas sangat profesional dan tak akan kesulitan menjual anggur curian itu.,,
+8,141,Cavaille sangat marah dengan peristiwa tersebut dan mengatakan  tidak tahu akan siapa yang kira-kira melakukan pencurian.,,
+8,142,Sebelumnya ia sangat mempercayai adanya rasa solidaritas antarsesama pembuat anggur.,,
+9,145,Edward Pimentel mendapat hadiah satu juta pangsit Rusia setelah keluar sebagai favorit penonton dalam kontes itu.,,
+9,147,Penyanyi amatir ini akan mendapat kupon untuk makan pangsit kapan pun dia mau.,,
+9,149,Pemenang kejuaraan karaoke dunia ini berasal dari Finlandia untuk kategori penyanyi pria dan wanita terbaik.,,
+10,644,Kabar rencana akuisisi Toba Pulp oleh Pinnacle sudah berhembus sejak awal Oktober  lalu.,,
+10,645,Namun baik Toba Pulp maupun Pinnacle belum memberikan keterangan apa pun.,,
+10,647,Hal senada juga dikatakan Vice President Coporate Affair Raja Garuda Mas RGM Tjandra Putra.,,
+11,709,Jumlah ini jauh melampaui penjualan mobil selama 2006 sebanyak 318.904 unit.,,
+11,712,Penjualan mobil Astra ini naik dibandingkan periode sama sebelumnya sebanyak 174.827 unit.,,
+11,713,Sementara untuk penjualan mobil non Astra selama 9 bulan 2007 mencapai 169.886 unit.,,
+12,990,PT Multi Usaha Wisesa merupakan perseroan dengan kepemilikan saham 100 persen.,,
+12,1017,Produksi awal diharapkan berlangsung dalam 90 hingga 120 hari.,,
+12,1021,Penemuan gas ini akan meningkatkan cadangan gas Medco Energi pada akhir tahun 2007.,,
+13,209,Roekman mengatakan pesawat tersebut akan disewakan dengan sistem kontrak kepada perusahaan travel pariwisata.,,
+13,220,Nilai kontrak berdasarkan jam terbang pesawat atau paling tidak sebulan sebesar 160 ribu dolar AS per pesawat.,,
+13,244,Bank Central Asia BCA menargetkan dapat menyalurkan kredit sebesar Rp 10 triliun U pada tahun 2007.,,
+14,311,Sistem administrasi perpajakan adalah faktor kunci dalam upaya  memperbaiki iklim investasi dan memobilisasi pendanaan untuk pembangunan.,,
+14,331,Menkeu Sri Mulyani Indrawati membebaskan tarif akhir BM atas impor untuk pembuatan komponen oleh industri komponen.,,
+14,490,Saya akan meninggalkan Indonesia pada 28 Februari mendatang ke London.,,
+15,187,Bank Indonesia memperkirakan pertumbuhan kredit perbankan pada 2008 akan lebih tinggi  dibanding target perbankan pada tahun ini sebesar 22 persen.,,
+15,193,Kita tak melihat dampak yang terlalu negatif karena mampu menyerap kerugiannya dengan menggunakan pendekatan pasar.,,
+15,530,Target inflasi BI tahun 2007 sebesar 6 persen plus minus satu persen.,,
+16,493,Andrew Steer sendiri menjadi Country Director Bank Dunia untuk Indonesia sejak 2002.,,
+16,523,Penerbitan SUN dimaksudkan untuk membiayai defisit anggaran dan membayar obligasi yang.,,
+16,589,Dengan akuisisi ini Elnusa akan menjadi operator baru di pertambangan minyak pantai tersebut.,,
+17,915,Presiden Susilo Bambang Yudhoyono menyatakan keyakinannya bahwa Indonesia dapat melalui gejolak di global dengan dampak.,,
+17,920,Dampak yang dirasakan dapat dilihat pada koreksi harga saham dan uang yang cukup tajam di seluruh dunia  termasuk Indonesia.,,
+17,958,Ia berharap dalam waktu dekat rupiah akan kembali ke level Rp 9000 per dolar AS.,,
+18,855,Pemerintah merencanakan penerbitan obligasi negara dalam rupiah dengan jumlah indikatif sebesar Rp 3 triliun melalui lelang obligasi negara pada 21 Agustus 2007.,,
+18,858,Nominal per unit dua obligasi negara itu adalah Rp 1 juta.,,
+18,869,Saat ini juga sedang berlangsung negosiasi dengan Vietnam yang diharapkan selesai sebelum 2007.,,
+19,22,Kedua orang terkaya dunia itu sudah berhasil membujuk banyak orang yang sangat kaya di Amerika agar menyumbangkan separuh kekayaan mereka .,,
+19,25,Dia mengatakan kepada BBC bahwa dia sudah berencana menyumbangkan seluruh harta nya untuk amal bila dia meninggal .,,
+19,26,Beramal dan membantu sudah menjadi bagian dari budaya Cina selama 5000 tahun .,,
+20,14,Binatang ini tidak bisa dibunuh karena masyarakat India menganggap mereka suci .,,
+20,17,Pemkot telah menempatkan ikan di berbagai genangan air untuk memangsa telur nyamuk .,,
+20,32,Kisah pendiri Facebook Mark Zuckerberg akan diceritakan dalam sebuah komik biografi .,,
+21,81,Naskah asli Harry Potter dipamerkan,,
+21,83,Dua halaman naskah yang dibingkai dan ditandatangani oleh JK Rowling itu berisi Balada Nick Si Kepala Nyaris Putus .,,
+21,84,Naskah itu akan dipamerkan dalam festival di kota Wigtown tanggal 24 sampai 3 Oktober .,,
+22,979,Ia mengatakan pertumbuhan kredit biasanya lebih besar pada semester dua karena realisasi APBD dan APBN yang mulai berjalan .,,
+22,989,Namun ia tidak menyebutkan berapa nilai transaksi dan tujuan dari penjualan saham tersebut .,,
+22,1006,Pinjaman LPBN meningkat dengan cepat di tahun 2005 - 2006 namun kualitas nya belum cukup teruji .,,
+23,422,TRJE didirikan pada 1976 merupakan sebuah perusahaan patungan antara Jurong Engineering Limited of Singapore JEL dan PT Tri Usaha Bhakti .,,
+23,423,TRJE sebelum nya dikenal sebagai PT Truba Jurong Engineering .,,
+23,99,Sarah Murdoch berusaha menjelaskan kekeliruan itu terjadi karena selisih suara yang ketat .,,
+24,31,Kisah pendiri Facebook dibuat komik,,
+24,42,Dua orang rekan Zuckerberg di Harvard mengklaim ide pembuatan Facebook datang dari mereka .,,
+24,53,Satu masalah yang dihadapi adalah dia kehilangan akibat kebakaran yang melanda rumah nya .,,
+25,756,Kondisi Juni ini adalah kondisi perekonomian tertinggi selama 6 bulan terakhir .,,
+25,760,Perkembangan sektor riil di bulan Juni 2007 sangat positif .,,
+25,875,PT Bakrie Sumatera Plantations UNSP akan mendapat pasokan 23100 ton minyak sawit dari PT Guntung Idamannusa GIN .,,
+,,,,
+FORMAT OUTPUT,,,,
+,,,,
+# id = 100,,,,
+"# text = Baler adalah munisipalitas yang terletak di provinsi Aurora, Filipina.",,,,
+1,Baler,PROPN,3,nsubj
+2,adalah,AUX,3,cop
+3,munisipalitas,NOUN,0,root
+4,yang,PRON,5,nsubj:pass
+5,terletak,VERB,3,acl
+6,di,ADP,7,case
+7,provinsi,PROPN,5,obl
+8,Aurora,PROPN,7,flat
+9,",",PUNCT,7,punct
+10,Filipina,PROPN,7,appos
+11,.,PUNCT,3,punct
+,,,,
+# id = 210,,,,
+# text = Pencurian dan perampokan juga sangat jarang terjadi di wilayah ini.,,,,
+1,Pencurian,NOUN,7,nsubj
+2,dan,CCONJ,3,cc
+3,perampokan,NOUN,1,conj
+4,juga,ADV,7,advmod
+5,sangat,ADV,7,advmod
+6,jarang,ADV,7,advmod
+7,terjadi,VERB,0,root
+8,di,ADP,9,case
+9,wilayah,NOUN,7,obl
+10,ini,DET,9,det
+11,.,PUNCT,7,punct
